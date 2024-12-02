@@ -1,0 +1,6 @@
+maid_id,maid_name,services,locations,rating,phone,email
+1,Emily Carter,broom|kitchen|bathroom,Montreal|Laval,4.5,123-456-7890,emily.carter@example.com
+2,John Smith,bathroom|kitchen,Laval,4.0,987-654-3210,john.smith@example.com
+3,Sophia Brown,broom|kitchen,Montreal,4.8,555-123-4567,sophia.brown@example.com
+4,Liam Johnson,bathroom,Laval|Montreal,4.2,444-987-1234,liam.johnson@example.com
+5,Olivia Garcia,kitchen|bathroom,Montreal,4.7,666-456-7890,olivia.garcia@example.com
